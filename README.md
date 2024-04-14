@@ -10,4 +10,4 @@ For example :
 [Départementales results in Dinan's Canton in 2021](https://github.com/EwannAnacombesque/Archiver/blob/main/Exported%20Data/2021/D%C3%A9partementales/22/canton_de_Dinan_d2021.xlsx)  
 
 Data come from the French official site : [data.gouv.fr](https://www.data.gouv.fr/fr/)  
-Please consider my organisation :  [Emancipation Marxiste et Socialiste pour la Transmission et la Libération des Données Electorales Bretonnes](https://www.data.gouv.fr/fr/organizations/emancipation-marxiste-et-socialiste-pour-la-transmission-et-la-liberation-des-donnees-electorales-bretonnes/)
+Please consider my organisation :  [Emulation Marxiste et Socialiste pour la Transmission et la Libération des Données Electorales Bretonnes](https://www.data.gouv.fr/fr/organizations/emulation-marxiste-et-socialiste-pour-la-transmission-et-la-liberation-des-donnees-electorales-bretonnes/)
