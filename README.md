@@ -2,7 +2,7 @@
 
 Simple program to turn global data to local data, automatically find candidates and share out cities between sections.
 Ideal for doing local electoral statistics, as all people interested in politics should.
-Exported sheet model are based on Maël Le Pillouër ones.  
+Exported sheet model is based on Maël Le Pillouër ones.  
 __Mea Culpa__ : I have to export xlsx files, because pandas isn't doing well with OpenDocument files.
 
 For example :   
