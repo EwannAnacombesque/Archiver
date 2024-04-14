@@ -1,0 +1,353 @@
+Bourgbarré
+Bruz
+Chantepie
+Chartres-de-Bretagne
+Noyal-Châtillon-sur-Seiche
+Orgères
+Pont-Péan
+Rennes
+Saint-Erblon
+Vern-sur-Seiche
+--
+Acigné
+Betton
+Cesson-Sévigné
+Chasné-sur-Illet
+Dingé
+Dourdain
+Ercé-près-Liffré
+Guipel
+Hédé-Bazouges
+La Bouëxière
+La Chapelle-des-Fougeretz
+La Mézière
+Langouet
+Lanrigan
+Liffré
+Livré-sur-Changeon
+Montgermont
+Québriac
+Rennes
+Saint-Gondran
+Saint-Grégoire
+Saint-Sulpice-la-Forêt
+Saint-Symphorien
+Thorigné-Fouillard
+Vignoc
+--
+Bécherel
+Bédée
+Bléruais
+Boisgervilly
+Bonnemain
+Breteil
+Cardroc
+Clayes
+Combourg
+Cuguen
+Gaël
+Gévezé
+Iffendic
+Irodouër
+La Baussaine
+La Chapelle-du-Lou-du-Lac
+La Chapelle-aux-Filtzméens
+La Chapelle-Chaussée
+La Chapelle-Thouarault
+La Nouaye
+Landujan
+Langan
+Lanhélin
+Le Crouais
+Le Verger
+Les Iffs
+Longaulnay
+Lourmais
+Médréac
+Meillac
+Miniac-sous-Bécherel
+Montauban-de-Bretagne
+Montfort-sur-Meu
+Muel
+Pacé
+Parthenay-de-Bretagne
+Plesder
+Pleugueneuc
+Pleumeleuc
+Quédillac
+Rennes
+Romillé
+Saint-Brieuc-des-Iffs
+Saint-Domineuc
+Saint-Gonlay
+Saint-Léger-des-Prés
+Saint-Malon-sur-Mel
+Saint-Maugan
+Saint-Méen-le-Grand
+Saint-M'Hervon
+Saint-Onen-la-Chapelle
+Saint-Pern
+Saint-Pierre-de-Plesguen
+Saint-Thual
+Saint-Uniac
+Talensac
+Tinténiac
+Tressé
+Trémeheuc
+Trévérien
+Trimer
+--
+Bain-de-Bretagne
+Bains-sur-Oust
+Baulon
+Bourg-des-Comptes
+Bovel
+Bréal-sous-Montfort
+Bruc-sur-Aff
+Chanteloup
+Comblessac
+Ercé-en-Lamée
+Goven
+Grand-Fougeray
+Guichen
+Guignen
+Guipry-Messac
+La Bosse-de-Bretagne
+La Chapelle-Bouëxic
+La Chapelle-de-Brain
+La Couyère
+La Dominelais
+La Noë-Blanche
+Laillé
+Lalleu
+Langon
+Lassy
+Le Petit-Fougeray
+Le Sel-de-Bretagne
+Les Brulais
+Lieuron
+Lohéac
+Loutehel
+Maxent
+Mernel
+Monterfil
+Paimpont
+Pancé
+Pipriac
+Pléchâtel
+Plélan-le-Grand
+Poligné
+Redon
+Renac
+Saint-Ganton
+Saint-Just
+Saint-Malo-de-Phily
+Saint-Péran
+Saint-Séglin
+Saint-Senoux
+Saint-Sulpice-des-Landes
+Saint-Thurial
+Sainte-Anne-sur-Vilaine
+Sainte-Marie
+Saulnières
+Sixt-sur-Aff
+Teillay
+Treffendel
+Tresboeuf
+Val d'Anast
+--
+Amanlis
+Arbrissel
+Argentré-du-Plessis
+Availles-sur-Seiche
+Bais
+Balazé
+Boistrudan
+Bréal-sous-Vitré
+Brécé
+Brie
+Brielles
+Champeaux
+Chancé
+Châteaubourg
+Châteaugiron
+Châtillon-en-Vendelais
+Chelun
+Coësmes
+Cornillé
+Corps-Nuds
+Domagné
+Domalain
+Domloup
+Drouges
+Eancé
+Erbrée
+Essé
+Etrelles
+Forges-la-Forêt
+Gennes-sur-Seiche
+Janzé
+La Chapelle-Erbrée
+La Guerche-de-Bretagne
+La Selle-Guerchaise
+Landavran
+Le Pertre
+Le Theil-de-Bretagne
+Louvigné-de-Bais
+Marcillé-Robert
+Marpiré
+Martigné-Ferchaud
+Mecé
+Mondevert
+Montautour
+Montreuil-des-Landes
+Montreuil-sous-Pérouse
+Moulins
+Moussé
+Moutiers
+Nouvoitou
+Noyal-sur-Vilaine
+Piré-sur-Seiche
+Pocé-les-Bois
+Princé
+Rannée
+Retiers
+Saint-Armel
+Saint-Aubin-des-Landes
+Saint-Christophe-des-Bois
+Saint-Didier
+Saint-Germain-du-Pinel
+Saint-Jean-sur-Vilaine
+Saint-M'Hervé
+Sainte-Colombe
+Servon-sur-Vilaine
+Taillis
+Thourie
+Torcé
+Val-d'Izé
+Vergéal
+Visseiche
+Vitré
+--
+Andouillé-Neuville
+Aubigné
+Baillé
+Bazouges-la-Pérouse
+Beaucé
+Billé
+Broualan
+Chauvigné
+Chevaigné
+Combourtillé
+Dompierre-du-Chemin
+Feins
+Fleurigné
+Fougères
+Gahard
+Gosné
+Javené
+La Bazouge-du-Désert
+La Boussac
+La Chapelle-Janson
+La Chapelle-Saint-Aubert
+La Fontenelle
+La Selle-en-Luitré
+Laignelet
+Landéan
+Le Châtellier
+Le Ferré
+Le Loroux
+Le Tiercent
+Lécousse
+Les Portes du Coglais
+Luitré
+Louvigné-du-Désert
+Maen-Roch
+Marcillé-Raoul
+Melesse
+Mellé
+Mézières-sur-Couesnon
+Monthault
+Montreuil-le-Gast
+Montreuil-sur-Ille
+Mouazé
+Noyal-sous-Bazouges
+Parcé
+Parigné
+Pleine-Fougères
+Poilley
+Rimou
+Romagné
+Romazy
+Roz-sur-Couesnon
+Sains
+Saint-Aubin-d'Aubigné
+Saint-Aubin-du-Cormier
+Saint-Broladre
+Saint-Christophe-de-Valains
+Saint-Georges-de-Chesné
+Saint-Georges-de-Gréhaigne
+Saint-Georges-de-Reintembault
+Saint-Germain-en-Coglès
+Saint-Germain-sur-Ille
+Saint-Hilaire-des-Landes
+Saint-Jean-sur-Couesnon
+Saint-Marc-le-Blanc
+Saint-Marc-sur-Couesnon
+Saint-Marcan
+Saint-Médard-sur-Ille
+Saint-Ouen-des-Alleux
+Saint-Ouen-la-Rouërie
+Saint-Rémy-du-Plain
+Saint-Sauveur-des-Landes
+Sens-de-Bretagne
+Sougéal
+Trans-la-Forêt
+Tremblay
+Vendel
+Vieux-Viel
+Vieux-Vy-sur-Couesnon
+Villamée
+--
+Baguer-Morvan
+Baguer-Pican
+Cancale
+Châteauneuf-d'Ille-et-Vilaine
+Cherrueix
+Dinard
+Dol-de-Bretagne
+Epiniac
+Hirel
+La Fresnais
+La Gouesnière
+La Richardais
+La Ville-ès-Nonais
+Le Minihic-sur-Rance
+Le Tronchet
+Le Vivier-sur-Mer
+Lillemer
+Miniac-Morvan
+Mont-Dol
+Plerguer
+Pleurtuit
+Roz-Landrieux
+Saint-Benoît-des-Ondes
+Saint-Briac-sur-Mer
+Saint-Coulomb
+Saint-Guinoux
+Saint-Jouan-des-Guérets
+Saint-Lunaire
+Saint-Malo
+Saint-Méloir-des-Ondes
+Saint-Père
+Saint-Suliac
+--
+Chavagne
+Cintré
+L'Hermitage
+Le Rheu
+Mordelles
+Rennes
+Saint-Gilles
+Saint-Jacques-de-la-Lande
+Vezin-le-Coquet
